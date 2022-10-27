@@ -1,0 +1,11 @@
+{
+  "helloWorld": "[de] Hello World [de]",
+  "helloText": "[de]sample component text[de]",
+  "labelExtraInfo": "[de]...with some extra info![de]",
+  "labelSampleTranslation": "[de]A Translated Label[de]",
+  "labelCurrencies": "[de]Currencies:[de]",
+  "labelSelectACurrency": "[de]Select a currency...[de]",
+  "labelSelectedCurrency": "[de]Selected Currency:[de]",
+  "includeExtraInfoLabel": "[de]Display extra info[de]",
+  "includeExtraInfoHelpText": "[de]If selected, the display will include some extra info.[de]"
+}
