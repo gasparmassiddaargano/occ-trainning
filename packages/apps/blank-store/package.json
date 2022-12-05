@@ -4,18 +4,20 @@
   "private": true,
   "description": "Oracle Cloud Commerce Storefront Template Application",
   "dependencies": {
-    "@oracle-cx-commerce/actions": "3.8.0",
-    "@oracle-cx-commerce/endpoints": "3.8.0",
-    "@oracle-cx-commerce/react-app": "3.8.0",
-    "@oracle-cx-commerce/react-components": "3.8.0",
-    "@oracle-cx-commerce/react-widgets": "3.8.0",
-    "@oracle-cx-commerce/styles": "3.8.0",
-    "@oracle-cx-commerce/subscribers": "3.8.0",
-    "@oracle-cx-commerce/commerce-utils": "3.8.0",
-    "@oracle-cx-commerce/resources": "3.8.0"
+    "@oracle-cx-commerce/actions": "3.7.0",
+    "@oracle-cx-commerce/commerce-utils": "3.7.0",
+    "@oracle-cx-commerce/endpoints": "3.7.0",
+    "@oracle-cx-commerce/react-app": "3.7.0",
+    "@oracle-cx-commerce/react-components": "3.7.0",
+    "@oracle-cx-commerce/react-widgets": "3.7.0",
+    "@oracle-cx-commerce/resources": "3.7.0",
+    "@oracle-cx-commerce/styles": "3.7.0",
+    "@oracle-cx-commerce/subscribers": "3.7.0",
+    "bootstrap": "^4.6.0",
+    "react-bootstrap": "^2.6.0"
   },
   "devDependencies": {
-    "@oracle-cx-commerce/rollup-config": "3.8.0"
+    "@oracle-cx-commerce/rollup-config": "3.7.0"
   },
   "occ": {
     "namespace": "occ.react",

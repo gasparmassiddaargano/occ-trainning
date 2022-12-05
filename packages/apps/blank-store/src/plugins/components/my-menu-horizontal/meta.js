@@ -5,7 +5,7 @@
 import {buildResources} from '@oracle-cx-commerce/resources/utils';
 import * as resources from '../../../core/ui/locales';
 
-const resourceKeys = ['home'];
+const resourceKeys = ['Menu'];
 
 export default {
   packageId: '@oracle-cx-commerce/blank-store',

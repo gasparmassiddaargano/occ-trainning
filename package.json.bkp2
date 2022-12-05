@@ -49,7 +49,9 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@oracle-cx-commerce/cli": "3.7.0"
+    "@oracle-cx-commerce/cli": "3.7.0",
+    "bootstrap": "^5.2.2",
+    "react-bootstrap": "^2.5.0"
   },
   "devDependencies": {
     "@oracle-cx-commerce/dev": "3.7.0"
