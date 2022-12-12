@@ -2,7 +2,7 @@
   "layout": [
     {
       "components": [
-        "Newcomponent"
+        "MyLogin"
       ],
       "width": 12,
       "type": "main"
@@ -11,7 +11,7 @@
   "settings": {
     "pageDisplayName": {
       "en": {
-        "pageDisplayName": "Hello World - Login Page"
+        "pageDisplayName": "Login Hello World - Login Page"
       }
     }
   },

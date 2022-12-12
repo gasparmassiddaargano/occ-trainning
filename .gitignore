@@ -20,3 +20,4 @@
 .yarncache
 *.DS_Store
 tests-temp-dir*
+./occ/**
