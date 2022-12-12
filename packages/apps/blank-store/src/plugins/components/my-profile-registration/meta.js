@@ -1,7 +1,6 @@
 import {buildResources} from '@oracle-cx-commerce/resources/utils';
 import {mergeDefaultConfig} from '@oracle-cx-commerce/react-widgets/config';
 import * as resources from '../../../core/ui/locales';
-import config from './config';
 
 /**
  * The list below declares which of the locale resources should be made available to the widget
@@ -19,8 +18,8 @@ const resourceKeys = ['helloText', 'labelExtraInfo', 'labelSampleTranslation'];
  * Metadata for the widget.
  */
 export default {
-  name: 'MyResetPassword',
-  decription: 'User can update the password',
+  name: 'MyProfileRegistration',
+  decription: 'Shopper can self registrate to portal',
   author: 'gaspar',
   fetchers: [],
   actions: [],
@@ -29,9 +28,8 @@ export default {
    * This will enable the component to access any resource string via its props,
    * using the locale that is currently in effect.
    */
-  resources: buildResources(resources, resourceKeys),
+  resources: buildResources(resources, resourceKeys)
   /**
    *  Specify configuration properties for use in Design Studio.
    */
-   config: mergeDefaultConfig(config)
 };

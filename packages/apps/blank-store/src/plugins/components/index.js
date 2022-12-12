@@ -8,4 +8,5 @@ export const Home = () => import('./my-home');
 export const MyMenu = () => import('./my-menu-horizontal');
 export const MyLogin = () => import('./my-login');
 export const MyResetPassword = () => import('./my-reset-password');
+export const MyProfileRegistration = () => import('./my-profile-registration');
 export const CommImageCarousel = () => import('./common-image-carousel');

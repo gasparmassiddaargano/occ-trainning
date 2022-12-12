@@ -1,6 +1,5 @@
 import React, {useContext} from 'react';
 import Styled from '@oracle-cx-commerce/react-components/styled';
-import Link from '@oracle-cx-commerce/react-components/link';
 import MyMenu from '../my-menu-horizontal';
 /*
  * Uncomment the following line to get the parameter substitution

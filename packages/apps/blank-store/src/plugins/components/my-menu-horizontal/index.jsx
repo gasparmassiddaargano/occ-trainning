@@ -37,6 +37,7 @@ const changeMenu =(menu) => {
       <li className="MyMenu__li"><Link href="./home"  className="active" >Home</Link></li>
       <li className="MyMenu__li"><Link href="./">Dashboard</Link></li>
       <li className="MyMenu__li"><Link href="./login" onClick={(e)=>{ goToPage("login"); }} >Login</Link></li>
+      <li className="MyMenu__li"><Link href="./registration" onClick={(e)=>{ goToPage("registration"); }} >Registrate</Link></li>
     </ul>
     </div>
     </Styled>

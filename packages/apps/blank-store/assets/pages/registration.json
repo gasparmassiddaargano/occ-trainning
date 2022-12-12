@@ -2,7 +2,7 @@
   "layout": [
     {
       "components": [
-        "_HelloWorld"
+        "MyRegistration"
       ],
       "width": 12,
       "type": "main"
@@ -11,7 +11,7 @@
   "settings": {
     "pageDisplayName": {
       "en": {
-        "pageDisplayName": "Hello World - Registration Page"
+        "pageDisplayName": "Hello World - Registration Page "
       }
     }
   },
